@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE Employees SYSTEM "employeevalidation.dtd"> 
 <Employees>
 	<employee eid="a">
 		<name>Mukesh</name>
-		<stuid>19003</stuid>
 		<emailId>M@gmail.com</emailId>
+		<stuid>19003</stuid>
 		<marks>100</marks>
 	</employee>
 
 	<employee eid="b">
 		<name>Tarun</name>
-		<stuid>19003</stuid>
 		<emailId>T@gmail.com</emailId>
+		<stuid>19003</stuid>
 		<marks>100</marks>
 	</employee>
 </Employees>

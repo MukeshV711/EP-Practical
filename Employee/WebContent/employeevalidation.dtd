@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT Employees (employee+)>
+<!ELEMENT employee (name,emailId,stuid,marks)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT stuid (#PCDATA)>
+<!ELEMENT marks (#PCDATA)>
+<!ELEMENT emailId (#PCDATA)>
+<!ATTLIST employee eid ID #REQUIRED>

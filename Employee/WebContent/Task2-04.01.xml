@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class> 
+<student> 
+	<name> Mukesh </name>
+	<id> 1900 </id> 
+	<avg>92</avg> 
+	<dob>01-01-2001</dob>   
+	<time>10:15</time>        
+	<mobile no="1234567890"/>  		    
+	<distinction>YES</distinction> 
+</student> 
+<student> 
+	<name> Tarun </name> 
+	<id> 1900 </id> 
+	<avg>78</avg> 
+	<dob>01-01-2001</dob>   
+	<time>10:15</time>        
+	<mobile no="1234567890"/>  		    
+	<distinction>NO</distinction>
+</student>
+<student> 
+	<name> Harshith </name> 
+	<id> 1900 </id> 
+	<avg>85</avg> 
+	<dob>01-01-2001</dob>   
+	<time>10:15</time>        
+	<mobile no="1234567890"/>  		    
+	<distinction>YES</distinction>
+</student>
+<student> 
+	<name> Abhi </name> 
+	<id> 1900 </id> 
+	<avg>72</avg> 
+	<dob>01-01-2001</dob>   
+	<time>10:15</time>        
+	<mobile no="1234567890"/>  		    
+	<distinction>YES</distinction> 
+</student>
+<student> 
+	<name> Sai </name> 
+	<id> 1900 </id> 
+	<avg>92</avg> 
+	<dob>01-01-2001</dob>   
+	<time>10:15</time>        
+	<mobile no="1234567890"/>  		    
+	<distinction>YES</distinction> 
+</student>
+</class>
