@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employees>
+	<employee eid="a">
+		<name>Mukesh</name>
+		<stuid>19003</stuid>
+		<emailId>M@gmail.com</emailId>
+		<marks>100</marks>
+	</employee>
+
+	<employee eid="b">
+		<name>Tarun</name>
+		<stuid>19003</stuid>
+		<emailId>T@gmail.com</emailId>
+		<marks>100</marks>
+	</employee>
+</Employees>
