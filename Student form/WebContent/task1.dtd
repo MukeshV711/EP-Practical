@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT Students-Info (student+)>
+<!ELEMENT student (id,name,cgpa,branch)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT cgpa (#PCDATA)>
+<!ELEMENT branch (#PCDATA)>
