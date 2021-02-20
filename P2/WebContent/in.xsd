@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="students_info">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="student" maxOccurs="unbounded"
+					minOccurs="0">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="id" type="xs:string" />
+							<xs:element name="regno" type="xs:string" />
+							<xs:element name="name" type="xs:string" />
+							<xs:element name="branch" type="xs:string" />
+							<xs:element name="dob" type="xs:string" />
+							<xs:element name="avg" type="xs:string" />
+							<xs:element name="time" type="xs:string" />
+							<xs:element name="mobileno" type="xs:string" />
+							<xs:element name="distinction" type="xs:string" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema> 

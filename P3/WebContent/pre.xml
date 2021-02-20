@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Book>
+	<heading>Book Store</heading>
+	<book id='a'>
+		<title>Title:-Pride and Prejudice.</title>
+		<author>Author:-Jane Austen </author>
+		<publisher>Publisher:- Willey</publisher>
+		<edition>Edition:- 3</edition>
+		<price>Price:- 300</price>
+	</book>
+	<book id='b'>
+		<title>Title:- To Kill a Mockingbird .</title>
+		<author>Author:- Harper Lee</author>
+		<publisher>Publisher:- Willey</publisher>
+		<edition>Edition:- 1</edition>
+		<price>Price:- 550</price>
+	</book>
+	<book id='c'>
+		<title>Title:- 1984 .</title>
+		<author>Author:-George Orwell </author>
+		<publisher>Publisher:-robart </publisher>
+		<edition>Edition:- 1</edition>
+		<price>Price:- 890</price>
+	</book>
+	<book id='d'>
+		<title>Title:-The Lord of the Rings .</title>
+		<author>Author:-J.R.R. Tolkien</author>
+		<publisher>Publisher:- albert </publisher>
+		<edition>Edition:- 1</edition>
+		<price>Price:- 1000</price>
+	</book>
+	<book id='e'>
+		<title>Title:-The Great Gatsby.</title>
+		<author>Author:- F. Scott Fitzgerald</author>
+		<publisher>Publisher:- bookstore </publisher>
+		<edition>Edition:- 3</edition>
+		<price>Price:- 900</price>
+	</book>
+</Book>

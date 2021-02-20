@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="post.xsl"?>
+<Class>
+	<student>
+		<id>1</id>
+		<name>Mukesh</name>
+		<dod>1-1-2001</dod>
+	</student>
+	<student>
+		<id>2</id>
+		<name>Sai</name>
+		<dod>2-02--2002</dod>
+	</student>
+	<student>
+		<id>3</id>
+		<name>Hruthik</name>
+		<dod>3-3-2001</dod>
+	</student>
+	<student>
+		<id>4</id>
+		<name>Tarun</name>
+		<dod>4-4-2002</dod>
+	</student>
+	<student>
+		<id>5</id>
+		<name>Kushal</name>
+		<dod>05-05-2002</dod>
+	</student>
+</Class>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="book.css"?>
+<books>
+	<heading>Books store</heading>
+	<book_type>
+		<name>Title:-Turning Points</name>
+		<author>Author -: A.P.J. Abdul Kalam</author>
+		<publisher>Publisher -: Doubleday</publisher>
+		<edition>Edition:-3</edition>
+		<genre>Genre:-Action and Adventure</genre>
+		<price>Price:-199</price>
+	</book_type>
+	<book_type>
+		<name>Title -:Amulet Book</name>
+		<author>Author -: Kazu Kibuishi</author>
+		<publisher>Publisher -: Scholastic Inc</publisher>
+		<edition>Edition -: 2</edition>
+		<genre>Genre-:Comic</genre>
+		<price>Price -: 459</price>
+	</book_type>
+	<book_type>
+		<name>Title -: The Detective Diaries</name>
+		<author>Author -: Supratim Sarkar</author>
+		<publisher>Publisher -: Sunday Times</publisher>
+		<edition>Edition -: 1</edition>
+		<genre>Genre-:Detective and Mystery</genre>
+		<price>Price:-249</price>
+	</book_type>
+	<book_type>
+		<name>Title -: Unicorn </name>
+		<author>Author -: Peter S.Beagle</author>
+		<publisher>Publisher -: Vinking Press</publisher>
+		<edition>Edition -: 1</edition>
+		<genre>Genre-:Fantasy</genre>
+		<price>Price:-299</price>
+	</book_type>
+	<book_type>
+		<name>Title -: 50 Greatest Horror Stories </name>
+		<author>Author -: Terry O’Brien</author>
+		<publisher>Publisher -: Publishers Weekly </publisher>
+		<edition>Edition -: 1</edition>
+		<genre>Genre-:Horror</genre>
+		<price> Price -: 350</price>
+	</book_type>
+</books>

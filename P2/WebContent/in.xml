@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE students_info SYSTEM "in.dtd">
+<students_info>
+	<student>
+		<id>1</id>
+		<regno>1</regno>
+		<name>Mukesh</name>
+		<avg>85</avg>
+		<dob>07-12-2001</dob>
+		<time>11:00</time>
+		<mobileno>1234567890</mobileno>
+		<distinction>YES</distinction>
+	</student>
+	<student>
+		<id>2</id>
+		<regno>2</regno>
+		<name>nikhil</name>
+		<avg>92</avg>
+		<dob>15-08-2001</dob>
+		<time>11:00</time>
+		<mobileno>1234567890</mobileno>
+		<distinction>YES</distinction>
+	</student>
+	<student>
+		<id>3</id>
+		<regno>3</regno>
+		<name>kushal</name>
+		<avg>81</avg>
+		<dob>22-10-2000</dob>
+		<time>11:00</time>
+		<mobileno>1234567890</mobileno>
+		<distinction>YES</distinction>
+	</student>
+	<student>
+		<id>4</id>
+		<regno>4</regno>
+		<name>sai</name>
+		<avg>98</avg>
+		<dob>01-01-2002</dob>
+		<time>11:00</time>
+		<mobileno>1234567890</mobileno>
+		<distinction>YES</distinction>
+	</student>
+	<student>
+		<id>5</id>
+		<regno>5</regno>
+		<name>Hruthik</name>
+		<avg>90</avg>
+		<dob>30-12-2001</dob>
+		<time>11:00</time>
+		<mobileno>1234567890</mobileno>
+		<distinction>YES</distinction>
+	</student>
+
+</students_info>

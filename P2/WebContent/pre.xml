@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students_info>
+	<student>
+		<regno>1</regno>
+		<name>Mukesh</name>
+		<avg>85</avg>
+		<dob>07-12-2001</dob>
+		<time>11:00</time> 
+		<mobileno>1234567890</mobileno>
+		<distinction>YES</distinction>
+	</student>
+	<student>
+		<regno>2</regno>
+		<name>nikhil</name>
+		<avg>92</avg>
+		<dob>15-08-2001</dob>
+		<time>11:00</time> 
+		<mobileno>1234567890</mobileno>
+		<distinction>YES</distinction>
+	</student>
+	<student>
+		<regno>3</regno>
+		<name>kushal</name>
+		<avg>81</avg>
+		<dob>22-10-2000</dob>
+		<time>11:00</time> 
+		<mobileno>1234567890</mobileno>
+		<distinction>YES</distinction>
+	</student>
+	<student>
+		<regno>4</regno>
+		<name>sai</name>
+		<avg>98</avg>
+		<dob>01-01-2002</dob>
+		<time>11:00</time> 
+		<mobileno>1234567890</mobileno>
+		<distinction>YES</distinction>
+	</student>
+	<student>
+		<regno>5</regno>
+		<name>Hruthik</name>
+		<avg>90</avg>
+		<dob>30-12-2001</dob>
+		<time>11:00</time> 
+		<mobileno>1234567890</mobileno>
+		<distinction>YES</distinction>
+	</student>
+
+</students_info>
